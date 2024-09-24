@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\bin\Debug\YolcuBiletRezervasyon.exe.config
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\bin\Debug\YolcuBiletRezervasyon.exe
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\bin\Debug\YolcuBiletRezervasyon.pdb
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.Form1.resources
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.Properties.Resources.resources
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.exe
+C:\Users\btk02\source\repos\YolcuBiletRezervasyon\YolcuBiletRezervasyon\obj\Debug\YolcuBiletRezervasyon.pdb
